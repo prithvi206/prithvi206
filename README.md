@@ -15,16 +15,6 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prithvi206&theme=dark)](https://git.io/streak-stats)
 <!--
 prithvi206
-<h1 align="center">Hi 👋, I'm Chandan S Gowda</h1>
-<h3 align="center">A passionate developer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvi206&label=Profile%20views&color=0e75b6&style=flat" alt="prithvi206" /> </p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandansgowda&show_icons=true&locale=en" alt="chandansgowda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandansgowda&" alt="chandansgowda" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
