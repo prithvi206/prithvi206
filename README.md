@@ -1,6 +1,6 @@
 - 👋 Hi, I’m prithvi
 - 👀 I’m interested in UI/UX,Flutter,Cloud computing ,WEB Technology want to explore different domains and find the suitable for me.
-- 🌱 I’m currently learning JSSSTU
+- 🌱 I’m currently learning at JSSSTU
 - 📫 How to reach me prithviraj2062002@gmail.com
 
 <!---
